@@ -8,8 +8,9 @@ Figure I'd try out flask restful-plus and then in the future also try out vuejs 
 - [] better app configuration
 - [] set up database things, sqlalchemy
 - [] play around with setting up multiple resources
+- [] TESTS!!
 
-# Set up
+# How to use
 I decided to use python3 and conda, which I usually don't use, so there will be some playing around to get things going, mainly with the virtual environment.
 
 Get virtualenv up and running in whatever way you'd like.
