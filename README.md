@@ -3,12 +3,12 @@ Mostly for my testing purposes.
 Figure I'd try out flask restful-plus and then in the future also try out vuejs as the frontend for it
 
 ## TO DO
-- [] vuejs installation
-- [] vuejs setup
-- [] better app configuration
-- [] set up database things, sqlalchemy
-- [] play around with setting up multiple resources
-- [] TESTS!!
+- [ ] vuejs installation
+- [ ] vuejs setup
+- [ ] better app configuration
+- [ ] set up database things, sqlalchemy
+- [ ] play around with setting up multiple resources
+- [ ] TESTS!!
 
 # How to use
 I decided to use python3 and conda, which I usually don't use, so there will be some playing around to get things going, mainly with the virtual environment.
